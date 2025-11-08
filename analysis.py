@@ -10,7 +10,7 @@ import time
 
 warnings.filterwarnings('ignore')
 
-API_KEY = "AIzaSyA_POE9tzPz48ucII2Gn51xIKWXkkZMNyA"
+API_KEY = "MY_API"
 client = genai.Client(api_key=API_KEY)
 
 
