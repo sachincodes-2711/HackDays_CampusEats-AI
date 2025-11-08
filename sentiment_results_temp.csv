@@ -1,0 +1,71 @@
+transaction_id,date,time_of_day,student_id,student_diet_pref,item_name,item_category,item_type,price,quantity,rating,review_text,calories,day_of_week,sentiment
+txn_001,2025-10-01,Breakfast,user_101,Non-Veg,Aloo Paratha,Veg,Breakfast,56,2,4,"Warm and buttery, really satisfying breakfast.",315,Wednesday,Neutral
+txn_002,2025-10-01,Lunch,user_102,Veg,Veg Thali,Veg,Main Course,92,1,2,"Dal was too thin, sabzi had no taste. Disappointed.",625,Wednesday,Neutral
+txn_003,2025-10-01,Snack,user_103,Flexible,Samosa,Veg,Snack,17,3,5,"Crispy, spicy and perfect with chai. Loved it.",270,Wednesday,Neutral
+txn_004,2025-10-01,Dinner,user_104,Non-Veg,Butter Chicken,Non-Veg,Main Course,150,1,5,"Rich creamy gravy, tender chicken. Perfect dinner.",620,Wednesday,Neutral
+txn_005,2025-10-02,Breakfast,user_105,Veg,Plain Dosa,Veg,Breakfast,52,1,3,"Simple dosa, sambhar was mild but okay.",205,Thursday,Neutral
+txn_006,2025-10-02,Lunch,user_106,Non-Veg,Paneer Butter Masala,Veg,Main Course,135,2,4,"Creamy, flavorful, paneer soft. Good portion.",565,Thursday,Neutral
+txn_007,2025-10-02,Snack,user_107,Flexible,Maggi,Veg,Snack,45,4,2,"Sticky noodles, lacked masala. Won’t order again.",210,Thursday,Neutral
+txn_008,2025-10-02,Dinner,user_108,Non-Veg,Boiled Egg,Egg,Snack,11,3,3,"Soft boiled, basic but filling.",165,Thursday,Neutral
+txn_009,2025-10-03,Breakfast,user_109,Veg,Masala Dosa,Veg,Breakfast,72,1,5,"Crisp edges, perfect masala stuffing. Great start!",295,Friday,Neutral
+txn_010,2025-10-03,Lunch,user_110,Non-Veg,Butter Chicken,Non-Veg,Main Course,145,2,5,"Best meal on campus, rich and aromatic.",610,Friday,Neutral
+txn_011,2025-10-03,Snack,user_101,Non-Veg,Spring Rolls,Veg,Snack,46,3,1,"Greasy and soggy, filling barely there.",155,Friday,Neutral
+txn_012,2025-10-03,Dinner,user_102,Veg,Veg Pasta,Veg,Main Course,103,1,4,"Creamy sauce, nicely cooked pasta.",470,Friday,Neutral
+txn_013,2025-10-04,Breakfast,user_103,Flexible,Aloo Paratha,Veg,Breakfast,54,2,3,"Decent taste, but a little oily.",310,Saturday,Neutral
+txn_014,2025-10-04,Lunch,user_104,Non-Veg,Veg Thali,Veg,Main Course,95,1,2,Very bland and repetitive meal.,590,Saturday,Neutral
+txn_015,2025-10-04,Snack,user_105,Veg,Brownie,Veg,Dessert,62,2,5,"Soft, chocolatey and warm. Perfect dessert!",305,Saturday,Neutral
+txn_016,2025-10-04,Dinner,user_106,Non-Veg,Paneer Dosa,Veg,Breakfast,82,1,2,"Paneer was chewy, dosa soggy. Bad experience.",360,Saturday,Neutral
+txn_017,2025-10-05,Breakfast,user_107,Flexible,Plain Dosa,Veg,Breakfast,51,1,3,"Average dosa, sambhar watery.",205,Sunday,Neutral
+txn_018,2025-10-05,Lunch,user_108,Non-Veg,Paneer Butter Masala,Veg,Main Course,132,2,5,"Amazing taste, rich and spicy.",570,Sunday,Neutral
+txn_019,2025-10-05,Snack,user_109,Veg,Samosa,Veg,Snack,16,5,4,"Crisp outer layer, mildly spiced filling.",265,Sunday,Neutral
+txn_020,2025-10-05,Dinner,user_110,Non-Veg,Butter Chicken,Non-Veg,Main Course,155,1,5,"Aromatic, flavorful. Loved it!",640,Sunday,Neutral
+txn_021,2025-10-06,Breakfast,user_101,Non-Veg,Aloo Paratha,Veg,Breakfast,53,1,4,"Soft inside, golden brown crust.",320,Monday,Neutral
+txn_022,2025-10-06,Lunch,user_102,Veg,Masala Dosa,Veg,Breakfast,74,1,5,Crisp dosa and spicy chutney combo rocks.,310,Monday,Neutral
+txn_023,2025-10-06,Snack,user_103,Flexible,Boiled Egg,Egg,Snack,12,2,3,"Plain, nothing special but fills you up.",85,Monday,Neutral
+txn_024,2025-10-06,Dinner,user_104,Non-Veg,Butter Chicken,Non-Veg,Main Course,142,1,4,Tasty but slightly oily this time.,610,Monday,Neutral
+txn_025,2025-10-07,Breakfast,user_105,Veg,Paneer Dosa,Veg,Breakfast,83,1,2,"Stale dosa, rubbery paneer.",345,Tuesday,Neutral
+txn_026,2025-10-07,Lunch,user_106,Non-Veg,Veg Biryani,Veg,Main Course,118,2,4,"Aromatic rice, good mix of veggies.",660,Tuesday,Neutral
+txn_027,2025-10-07,Snack,user_107,Flexible,Spring Rolls,Veg,Snack,44,4,2,"Filling tasted burnt, not worth it.",155,Tuesday,Neutral
+txn_028,2025-10-07,Dinner,user_108,Non-Veg,Paneer Butter Masala,Veg,Main Course,125,1,5,Delicious! Paneer perfectly cooked.,540,Tuesday,Neutral
+txn_029,2025-10-08,Breakfast,user_109,Veg,Plain Dosa,Veg,Breakfast,49,2,3,"Crisp edges, average sambhar.",195,Wednesday,Neutral
+txn_030,2025-10-08,Lunch,user_110,Non-Veg,Butter Chicken,Non-Veg,Main Course,137,1,5,Tender chicken and thick gravy.,625,Wednesday,Neutral
+txn_031,2025-10-08,Snack,user_101,Non-Veg,Samosa,Veg,Snack,16,4,5,"Hot, crunchy, full of flavor.",245,Wednesday,Neutral
+txn_032,2025-10-08,Dinner,user_102,Veg,Veg Pasta,Veg,Main Course,99,1,1,"Overcooked pasta, tasteless sauce.",430,Wednesday,Neutral
+txn_033,2025-10-09,Breakfast,user_103,Flexible,Aloo Paratha,Veg,Breakfast,52,2,4,"Nicely cooked, right amount of spice.",305,Thursday,Neutral
+txn_034,2025-10-09,Lunch,user_104,Non-Veg,Paneer Butter Masala,Veg,Main Course,133,2,4,Rich and balanced. Paneer soft.,560,Thursday,Neutral
+txn_035,2025-10-09,Snack,user_105,Veg,Brownie,Veg,Dessert,63,3,5,"Chocolate heaven, perfect sweetness.",310,Thursday,Neutral
+txn_036,2025-10-09,Dinner,user_106,Non-Veg,Boiled Egg,Egg,Snack,9,3,3,"Just okay, eggs slightly hard.",230,Thursday,Neutral
+txn_037,2025-10-10,Breakfast,user_107,Flexible,Masala Dosa,Veg,Breakfast,69,2,4,Crisp dosa and tangy sambhar.,295,Friday,Neutral
+txn_038,2025-10-10,Lunch,user_108,Non-Veg,Veg Thali,Veg,Main Course,87,1,2,"Thali was cold, felt like leftovers.",580,Friday,Neutral
+txn_039,2025-10-10,Snack,user_109,Veg,Maggi,Veg,Snack,38,3,1,"Overboiled, sticky mess. Never again.",190,Friday,Neutral
+txn_040,2025-10-10,Dinner,user_110,Non-Veg,Butter Chicken,Non-Veg,Main Course,149,1,5,Excellent texture and taste.,615,Friday,Neutral
+txn_041,2025-10-11,Breakfast,user_101,Non-Veg,Plain Dosa,Veg,Breakfast,50,1,3,"Cold dosa, sambhar lacked punch.",210,Saturday,Neutral
+txn_042,2025-10-11,Lunch,user_102,Veg,Paneer Dosa,Veg,Breakfast,85,1,3,"Mediocre paneer filling, nothing special.",340,Saturday,Neutral
+txn_043,2025-10-11,Snack,user_103,Flexible,Spring Rolls,Veg,Snack,41,2,4,"Freshly fried and crisp, good snack.",160,Saturday,Neutral
+txn_044,2025-10-11,Dinner,user_104,Non-Veg,Butter Chicken,Non-Veg,Main Course,148,1,5,"Best dish, rich and full-bodied.",620,Saturday,Neutral
+txn_045,2025-10-17,Friday Lunch,user_101,Non-Veg,Veg Thali,Veg,Main Course,89,1,1,Friday veg again. Tasteless and watery.,590,Friday,Neutral
+txn_046,2025-10-17,Friday Lunch,user_104,Non-Veg,Boiled Egg,Egg,Snack,11,3,3,"Plain eggs, fine as a quick bite.",155,Friday,Neutral
+txn_047,2025-10-17,Friday Snack,user_106,Non-Veg,Samosa,Veg,Snack,14,4,5,"Crisp and fresh, perfect for chai break.",265,Friday,Neutral
+txn_048,2025-10-17,Friday Dinner,user_107,Flexible,Paneer Dosa,Veg,Breakfast,78,1,2,"Felt reheated, not fresh.",345,Friday,Neutral
+txn_049,2025-10-18,Breakfast,user_108,Non-Veg,Aloo Paratha,Veg,Breakfast,58,2,4,"Warm, thick and flavorful.",310,Saturday,Neutral
+txn_050,2025-10-18,Lunch,user_109,Veg,Masala Dosa,Veg,Breakfast,73,1,5,"Crisp dosa, good chutneys.",295,Saturday,Neutral
+txn_051,2025-10-18,Snack,user_110,Non-Veg,Brownie,Veg,Dessert,64,2,5,"Soft center, just delicious.",295,Saturday,Neutral
+txn_052,2025-10-18,Dinner,user_101,Non-Veg,Butter Chicken,Non-Veg,Main Course,146,1,5,Weekend meal done right.,640,Saturday,Neutral
+txn_053,2025-10-19,Breakfast,user_102,Veg,Plain Dosa,Veg,Breakfast,53,1,4,"Simple dosa, crispy edges.",215,Sunday,Neutral
+txn_054,2025-10-19,Lunch,user_103,Flexible,Butter Chicken,Non-Veg,Main Course,138,1,5,"Outstanding gravy, soft chicken.",615,Sunday,Neutral
+txn_055,2025-10-19,Snack,user_104,Non-Veg,Spring Rolls,Veg,Snack,43,3,3,"Crunchy outside, average filling.",165,Sunday,Neutral
+txn_056,2025-10-19,Dinner,user_105,Veg,Veg Pasta,Veg,Main Course,96,1,4,"Good flavor, mild spice.",460,Sunday,Neutral
+txn_057,2025-10-20,Breakfast,user_106,Non-Veg,Aloo Paratha,Veg,Breakfast,51,1,3,"Got cold quickly, average taste.",290,Monday,Neutral
+txn_058,2025-10-20,Lunch,user_107,Flexible,Paneer Butter Masala,Veg,Main Course,126,1,5,Excellent texture and flavor.,555,Monday,Neutral
+txn_059,2025-10-20,Snack,user_108,Non-Veg,Samosa,Veg,Snack,15,5,4,"Hot, crunchy, a bit oily but good.",260,Monday,Neutral
+txn_060,2025-10-20,Dinner,user_109,Veg,Veg Thali,Veg,Main Course,94,1,1,"Oily, bland and overpriced.",585,Monday,Neutral
+txn_061,2025-10-21,Breakfast,user_110,Non-Veg,Plain Dosa,Veg,Breakfast,47,1,4,"Light and crispy, nice chutney.",205,Tuesday,Neutral
+txn_062,2025-10-21,Lunch,user_101,Non-Veg,Butter Chicken,Non-Veg,Main Course,144,1,5,"Delicious as usual, best in canteen.",625,Tuesday,Neutral
+txn_063,2025-10-21,Snack,user_102,Veg,Brownie,Veg,Dessert,61,2,5,"Sweet, soft and indulgent.",315,Tuesday,Neutral
+txn_064,2025-10-21,Dinner,user_103,Flexible,Maggi,Veg,Snack,39,4,2,"Overcooked, tasted bland.",190,Tuesday,Neutral
+txn_065,2025-10-22,Lunch,user_104,Non-Veg,Paneer Butter Masala,Veg,Main Course,130,2,4,"Rich, thick and satisfying meal.",560,Wednesday,Neutral
+txn_066,2025-10-22,Snack,user_105,Veg,Samosa,Veg,Snack,16,4,4,"Crisp and spicy, worth it.",245,Wednesday,Neutral
+txn_067,2025-10-22,Dinner,user_106,Non-Veg,Boiled Egg,Egg,Snack,10,3,3,"Simple dinner, just fine.",245,Wednesday,Neutral
+txn_068,2025-10-23,Lunch,user_107,Flexible,Butter Chicken,Non-Veg,Main Course,139,1,5,"Juicy, flavorful chicken curry.",610,Thursday,Neutral
+txn_069,2025-10-23,Snack,user_108,Non-Veg,Maggi,Veg,Snack,41,3,1,"Undercooked noodles, poor taste.",200,Thursday,Neutral
+txn_070,2025-10-23,Dinner,user_109,Veg,Paneer Dosa,Veg,Breakfast,81,1,4,"Good paneer filling, crisp dosa.",345,Thursday,Neutral
